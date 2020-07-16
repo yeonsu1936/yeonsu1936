@@ -10,8 +10,18 @@ My main areas of interest are WIFI Security(PHY Security), Block Chain, Digital 
 - MATLAB (intermediate)
 - Linux (intermediate)
 - html, css, javascript (intermediate)
+- PHP (beginner)
 - JAVA (beginner)
-- R (beginner)
+- R  (beginner)
+- MySQL (beginner)
+
+### 👯 Ect
+- Security
+- Block Chain
+- Ubuntu
+- Kali Linux
+- Raspberry Pi
+- Arduino
 
 ### 📫 How to reach me
 - blog: https://blog.naver.com/yeonsu1936
