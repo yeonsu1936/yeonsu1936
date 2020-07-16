@@ -24,6 +24,7 @@ My main areas of interest are WIFI Security(PHY Security), Block Chain, Digital 
 - Arduino
 
 ### 📫 How to reach me
+- portfolio : https://github.com/yeonsu1936/resume
 - blog: https://blog.naver.com/yeonsu1936
 - facebook: https://www.facebook.com/profile.php?id=100014585354638
 - email: yeonsu1936@gmail.com
