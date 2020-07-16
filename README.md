@@ -1,4 +1,4 @@
-### Chansung, Park -- @deep-diver
+### Yeonsu, Sung -- @yeonsu1936
 
 👋 Hi! Welcome to my GitHub place.
 I am enrolled in sungshin women's university in south korea. 
