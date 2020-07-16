@@ -1,16 +1,19 @@
-### Hi there 👋
+### Chansung, Park -- @deep-diver
 
-<!--
-**yeonsu1936/yeonsu1936** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! Welcome to my GitHub place.
+I am enrolled in sungshin women's university in south korea. 
+My main areas of interest are WIFI Security(PHY Security), Block Chain, Digital Forensic, Vurnelability Analysis abd CTF in general.
 
-Here are some ideas to get you started:
+### 🔭 Languages 
+- Python (intermediate)
+- C (intermediate)
+- MATLAB (intermediate)
+- Linux (intermediate)
+- html, css, javascript (intermediate)
+- JAVA (beginner)
+- R (beginner)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+- blog: https://blog.naver.com/yeonsu1936
+- facebook: https://www.facebook.com/profile.php?id=100014585354638
+- email: yeonsu1936@gmail.com
