@@ -1,11 +1,11 @@
 ### Yeonsu, Sung -- @yeonsu1936
 
 👋 Hi! Welcome to my GitHub place.<br/>
-I am enrolled in sungshin women's university in south korea.<br/>
+I am majoring in **convergence security engineering** at sungshin women's university in south korea.<br/>
 My main areas of interest are WIFI Security(PHY Security), Block Chain, Digital Forensic, Vurnelability Analysis and CTF in general.
 
 ### 🔭 Languages 
-- Python (intermediate)
+- **Python (intermediate)**
 - C (intermediate)
 - MATLAB (intermediate)
 - Linux (intermediate)
