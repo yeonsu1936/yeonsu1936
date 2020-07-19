@@ -5,11 +5,11 @@ I am majoring in **convergence security engineering** at sungshin women's univer
 My main areas of interest are WIFI Security(PHY Security), Block Chain, Digital Forensic, Vurnelability Analysis and CTF in general.
 
 ### 🔭 Languages 
-- **Python (intermediate)**
-- C (intermediate)
-- MATLAB (intermediate)
-- Linux (intermediate)
-- html, css, javascript (intermediate)
+- **Python (beginner)**
+- C (beginner)
+- MATLAB (beginner)
+- Linux (beginner)
+- html, css, javascript (beginner)
 - PHP (beginner)
 - JAVA (beginner)
 - R  (beginner)
