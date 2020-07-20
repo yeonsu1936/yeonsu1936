@@ -2,12 +2,12 @@
 
 👋 Hi! Welcome to my GitHub place.<br/>
 I am majoring in **convergence security engineering** at sungshin women's university in south korea.<br/>
-My main areas of interest are WIFI Security(PHY Security), Block Chain, Digital Forensic, Vurnelability Analysis and CTF in general.
+My main areas of interest are **Digital Forensic**, **Vurnelability Analysis**, **CTF**, WIFI Security(PHY Security) and Block Chain in general.
 
 ### 🔭 Languages 
 - **Python (beginner)**
 - C (beginner)
-- MATLAB (beginner)
+- Octave (beginner)
 - Linux (beginner)
 - html, css, javascript (beginner)
 - PHP (beginner)
