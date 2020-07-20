@@ -15,7 +15,7 @@ My main areas of interest are **Digital Forensic**, **Vurnelability Analysis**, 
 - R  (beginner)
 - MySQL (beginner)
 
-### 👯 Ect
+### 👯 Etc
 - Security
 - Block Chain
 - Ubuntu
