@@ -25,6 +25,7 @@ My main areas of interest are **Digital Forensic**, **Vurnelability Analysis**, 
 
 ### 📫 How to reach me
 - **portfolio : https://github.com/yeonsu1936/resume**
-- blog: https://yeonsu1936.github.io/
-- facebook: https://www.facebook.com/profile.php?id=100014585354638
-- email: yeonsu1936@gmail.com
+- git blog : https://yeonsu1936.github.io/
+- naver blog : https://blog.naver.com/yeonsu1936
+- facebook : https://www.facebook.com/profile.php?id=100014585354638
+- email : yeonsu1936@gmail.com
