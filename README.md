@@ -16,9 +16,9 @@ My main areas of interest are **Digital Forensics**, **Vulnerability Analysis**,
 - MySQL
 
 ### 👯 Etc
-- Security
-- Digital Forensics
-- Kali Linux
+- **Security**
+- **Digital Forensics**
+- **Kali Linux**
 - Ubuntu
 - Raspberry Pi
 - Arduino
