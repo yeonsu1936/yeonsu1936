@@ -27,5 +27,4 @@ My main areas of interest are **Digital Forensics**, **Vulnerability Analysis**,
 ### 📫 How to reach me
 - **portfolio : https://github.com/yeonsu1936/resume**
 - **git blog** : https://yeonsu1936.github.io/
-- **naver blog** : https://blog.naver.com/yeonsu1936
 - email : yeonsu1936@gmail.com
